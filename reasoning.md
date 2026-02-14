@@ -10,13 +10,13 @@ Anyways beyond my pitch Thats the jist of it.
 
 ## Links:
 
-- (My site)[https://donskyblock.xyz]
+- [My site](https://donskyblock.xyz)
 
-- (OpenCom)[https://opencom.online]
-- (OpenCom Github)[https://github.com/donskyblock/OpenCom]
+- [OpenCom](https://opencom.online)
+- [OpenCom Github](https://github.com/donskyblock/OpenCom)
 
-- (My Github)[https://github.com/donskyblock]
-- (My X)[https://x.com/donsbyt]
-- (My Twitch)[https://twitch.tv/donsbyt]
+- [My Github](https://github.com/donskyblock)
+- [My X](https://x.com/donsbyt)
+- [My Twitch](https://twitch.tv/donsbyt)
 
-> Last updated: 2026-02-14 | 1:39 AM GMT
+> Last updated: 2026-02-14 | 1:47 AM GMT
