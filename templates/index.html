@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Why We’re Leaving Discord</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main class="wrap">
+    <header class="header">
+      <h1>Why We’re No Longer Using Discord</h1>
+      <p class="sub">
+        Edit <code>reasoning.md</code> in any text editor, then refresh this page.
+      </p>
+    </header>
+
+    <section class="card prose">
+      {{ content_html | safe }}
+    </section>
+  </main>
+</body>
+</html>
